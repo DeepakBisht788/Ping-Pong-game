@@ -7,7 +7,7 @@ This is a simple Ping Pong game developed using Python's `turtle` graphics libra
 - **Scoring system**: Points are scored when a player misses the ball.
 - **Game over condition**: The game ends when a player reaches the winning score.
 
-## Summary of the Classes:
+## Summary of the Classes used in this program:
 - `Paddle`: Controls paddle movement up and down.
 - `Ball`: Handles ball movement, bouncing, and restarting when a player misses it.
 - `Scoreboard`: Tracks and displays the score, as well as the "Game Over" message.
